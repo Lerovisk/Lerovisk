@@ -27,23 +27,6 @@
 
 ---
 
-### 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [📚 Gestor de Portfólio de Leitura](https://github.com/Lerovisk/projetos-python-faculdade) | Sistema de gerenciamento de livros via terminal com CRUD, histórico de alterações e estatísticas de progresso | Python, JSON |
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lerovisk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lerovisk&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
----
-
 ### 📬 Contato
 
 <p align="left">
