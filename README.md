@@ -31,7 +31,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [📚 Gestor de Portfólio de Leitura](https://github.com/Lerovisk/Projetos-faculdade) | Sistema de gerenciamento de livros via terminal com CRUD, histórico de alterações e estatísticas de progresso | Python, JSON |
+| [📚 Gestor de Portfólio de Leitura](https://github.com/Lerovisk/projetos-python-faculdade) | Sistema de gerenciamento de livros via terminal com CRUD, histórico de alterações e estatísticas de progresso | Python, JSON |
 
 ---
 
