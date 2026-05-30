@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8124bf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leticia+Oliveira+Messias;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-
-<div align="center">  
-<a href="https://www.instagram.com/alv4rezz__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
