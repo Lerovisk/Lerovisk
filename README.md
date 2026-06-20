@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8124bf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8124bf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leticia+Oliveira+Messias;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8124bf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leticia+Messias;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
  
 ### Main skills:
