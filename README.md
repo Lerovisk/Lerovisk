@@ -18,7 +18,6 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea&labelColor=0D1117)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![MySQL](https://shields.io)&nbsp;
 
 
 <!-- <div align="center">
